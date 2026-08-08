@@ -1,2 +1,2 @@
-# Zoom
-A full stack video conferencing web application.
+# MeetVerse
+A full-stack real-time video calling web application.
